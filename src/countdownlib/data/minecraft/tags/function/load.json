@@ -1,3 +1,5 @@
-scoreboard objectives add data dummy
-
-tellraw @a {"bold":true,"text":"Countdownlib >>> Reloaded!"}
+{
+  "values": [
+    "countdownlib:load"
+  ]
+}
